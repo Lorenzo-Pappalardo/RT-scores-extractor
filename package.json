@@ -1,0 +1,14 @@
+{
+  "name": "rt-scores-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.1.1"
+  },
+  "type": "module"
+}
